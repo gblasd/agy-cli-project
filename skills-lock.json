@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "github-readme": {
+      "source": "thatrebeccarae/claude-marketing",
+      "sourceType": "github",
+      "skillPath": "skills/github-readme/SKILL.md",
+      "computedHash": "9a47f3f0985e846562ebdf977e83ec034e66aa490b372c86cb966d36e6d79945"
+    }
+  }
+}
